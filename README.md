@@ -6,7 +6,7 @@ Contains Data and code to analyse social networks for students enrolled in the n
 
 Open the Final Report.Rproj file with R studio
 
-
+dataset3description.pdf provides info on how data was collected and what the realtionships mean
 
 select any script and run all its code to:
 
